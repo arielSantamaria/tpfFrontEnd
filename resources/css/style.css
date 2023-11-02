@@ -64,14 +64,14 @@
 }
 
 @media (max-width: 768px) {
-  p {
-    font-size: 14px;
+  .texto {
+    font-size: 14px; 
   }
 }
 
 @media (max-width: 480px) {
-  p {
-    font-size: 12px;
+  .texto  {
+    font-size: 12px; 
   }
 }
 
